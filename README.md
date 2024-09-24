@@ -1,5 +1,7 @@
 ShinColle0
 =======
-Just a lightweight remake of ShinColle.
+Just a lightweight remake of [ShinColle](https://www.curseforge.com/minecraft/mc-mods/shincolle).
 
-The copyright of the Mod's assets belongs to the original author [RollingLulan](https://github.com/PinkaLulan), and the original Intellectual Property of the assets is retained by [Kancolle](https://games.dmm.com/detail/kancolle).
+
+* Original mod author: [RollingLulan](https://github.com/PinkaLulan)
+* Original copyright holder: [Kancolle](https://games.dmm.com/detail/kancolle)
