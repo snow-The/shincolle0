@@ -1,4 +1,4 @@
-ShinColle-Lite
+ShinColle0
 =======
 Just a lightweight remake of ShinColle.
 
